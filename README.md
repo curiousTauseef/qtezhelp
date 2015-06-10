@@ -42,5 +42,9 @@ Very simple:
 # User Controls
 The user can search for text on the page, go back or forward, or go back to the index.
 
+Screenshot:
+
+![Help Window](https://raw.githubusercontent.com/wd5gnr/qtezhelp/master/screenshots/screenshot_208.png)
+
 # Report
 Report bugs to al.williams@awce.com or better still, use GitHub.
