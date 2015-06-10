@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/help">
+        <file>about.html</file>
+        <file>concept.html</file>
+        <file>help.css</file>
+        <file>help.html</file>
+        <file>index.html</file>
+        <file>measure.html</file>
+        <file>main.html</file>
+        <file>status.html</file>
+        <file>trigger.html</file>
+        <file>verthor.html</file>
+        <file>waveform.html</file>
+    </qresource>
+</RCC>
